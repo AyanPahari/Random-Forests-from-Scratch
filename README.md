@@ -29,11 +29,12 @@ Checking Test Accuracy using Sklearn's RandomForestClassifier
 
 - So, based on test accuracy our model performs almost as good as the sklearn’s model but the main differnce is the time taken by both the models. Sklearn’s model is approx 380X faster than our model.
 
+Plots of OOB vs m can be found in the Report.
+
 ### Note: 
 
 Here due to Computation Infeasibility we are limiting the number of trees and depth to 10 (on full depth and 100 trees it takes hours to plot the behaviour) but that doesn't affect the sensitivity of Random Forests but accuracy of the model does get affected.
 
-Plots of OOB vs m can be found in the Report.
 ## Authors
 
 - [@AyanPahari](https://github.com/AyanPahari)
