@@ -1,7 +1,7 @@
 
 # Random Forests from Scratch
 
-We are going to implement our own random forests classifier from scratch and apply 
+We are going to implement our own random forests classifier from scratch and apply it
 to the Spam dataset(https://hastie.su.domains/ElemStatLearn/datasets/spam.data)
 
 We will analyze it's performance on the following:
